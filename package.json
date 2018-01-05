@@ -1,0 +1,26 @@
+{
+  "name": "electron-timeline",
+  "version": "1.0.0",
+  "description": "Timeline editor based on Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meryt/electron-timeline.git"
+  },
+  "keywords": [
+    "timeline"
+  ],
+  "author": "meryt",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/meryt/electron-timeline/issues"
+  },
+  "homepage": "https://github.com/meryt/electron-timeline#readme",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
