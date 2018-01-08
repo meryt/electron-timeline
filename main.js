@@ -1,8 +1,8 @@
 const electron = require('electron')
 // Module to control application lifecycle
 const app = electron.app
-
 const BrowserWindow = electron.BrowserWindow
+const menu = require('./menu')
 
 const path = require('path')
 const url = require('url')
